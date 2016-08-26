@@ -7,3 +7,5 @@ Facebook has pretty detailed [instructions](https://developers.facebook.com/docs
 I've also added a few things of my own. Typing 'nytimes' will fetch you the most popular stories from - you guessed it - the [New York Times](https://developer.nytimes.com/), while typing 'dog' will show you a random image of a silly pup.
 
 I am still waiting for my bot to be approved by Facebook, and will post a link to my page when it's up.
+
+![Facebook](https://cloud.githubusercontent.com/assets/19495798/17996646/28891e90-6b38-11e6-80ea-d19d635c8370.png)
